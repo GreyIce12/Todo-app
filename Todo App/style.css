@@ -1,0 +1,37 @@
+.filtered{
+
+    display: none !important;
+}
+header{
+
+    color: whitesmoke;
+    text-align: center;
+}
+input {
+
+    margin:5px auto;
+
+}
+
+.container{
+
+    max-width: 400px;
+}
+
+input[type=text],
+input[type=text]:focus{
+
+    color: whitesmoke;
+    border: none;
+    background: rgb(3, 124, 165);
+ 
+}
+
+.todos{
+    cursor: pointer;
+}
+
+body{
+
+    background: rgb(27, 190, 245);
+}
